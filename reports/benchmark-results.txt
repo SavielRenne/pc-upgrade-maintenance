@@ -1,0 +1,76 @@
+PC Upgrade Project – Benchmark Results
+=======================================
+
+Date:
+(2/2026)
+
+--------------------------------------------------
+SSD Information
+--------------------------------------------------
+
+Model: Kingston NV3 M.2 NVMe SSD
+Capacity: (2TB)
+Interface: NVMe PCIe
+Slot Used: M.2
+
+--------------------------------------------------
+CrystalDiskMark Results
+--------------------------------------------------
+
+Sequential Read (MB/s):
+(3715.33)
+
+Sequential Write (MB/s):
+(3429.38)
+
+Random 4K Read (MB/s):
+(1790.11)
+
+Random 4K Write (MB/s):
+(717.47)
+
+Test File Size:
+(64GiB)
+
+Number of Runs:
+(5)
+
+--------------------------------------------------
+SSD Health Status (Hard Disk Sentinel)
+--------------------------------------------------
+
+Health Status:
+(99%)
+
+Performance Status:
+(Excellent)
+
+Temperature During Test:
+(38°C)
+
+Power-On Time:
+(1701)
+
+Total Data Written:
+(815.800)
+
+Note:
+The SSD was previously reported at 100% health upon installation.
+Current status of 99% reflects normal wear and remains within expected parameters.
+
+--------------------------------------------------
+Observations
+--------------------------------------------------
+
+- SSD performance is within expected range.
+- No SMART errors detected.
+- Temperature remained stable during testing.
+- System responsiveness improved after installation.
+
+--------------------------------------------------
+Conclusion
+--------------------------------------------------
+
+The SSD installation was successful.
+Performance benchmarks confirm expected read/write speeds.
+The system is stable and operating within safe temperature limits.

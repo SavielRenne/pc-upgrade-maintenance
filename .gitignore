@@ -1,0 +1,57 @@
+#################################################
+# Operating System
+#################################################
+
+# Hidden Windows files
+Thumbs.db
+Desktop.ini
+
+# Hidden macOS files
+.DS_Store
+
+#################################################
+# Logs and Temporary Files
+#################################################
+
+# Program logs
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+#################################################
+# Editor Archives / IDEs
+#################################################
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEs (IntelliJ, PyCharm, etc.)
+.idea/
+
+#################################################
+# Backups and Automatic Archives
+#################################################
+
+# Backup Files
+*.bak
+*.old
+*.backup
+
+#################################################
+# Large or Unnecessary Files
+#################################################
+
+# Compressed Files
+*.zip
+*.rar
+*.7z
+
+#################################################
+# Sensitive Data
+#################################################
+
+# Configuration files containing private data
+.env
+.env.local
